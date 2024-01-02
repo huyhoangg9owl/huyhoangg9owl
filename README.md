@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huyhoangg9owl" alt="huyhoangg9owl" /></a> </p>
 
-- 🌱 Tui đang học tại **Cao đẳng BKACAD (Học liên thông HUST)**
-
-- 📫 Liên lạc với tui tại **huyhoang9owl@gmail.com**
-
-- ⚡ Fun fact **Thiếu ngủ cực nặng, nghiện cafe và chip chip :>**
+-   🌱 Tui đang học tại **Cao đẳng BKACAD (Học liên thông HUST)**
+-   📫 Liên lạc với tui tại **huyhoang9owl@gmail.com**
+-   ⚡ Fun fact **Thiếu ngủ cực nặng, nghiện cafe và chip chip :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/night_owl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="night_owl" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyhoangg9owl&show_icons=true&locale=en&layout=compact" alt="huyhoangg9owl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huyhoangg9owl&show_icons=true&locale=en" alt="huyhoangg9owl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoangg9owl&" alt="huyhoangg9owl" /></p>
-
