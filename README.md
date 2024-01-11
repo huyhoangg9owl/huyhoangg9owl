@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huyhoangg9owl" alt="huyhoangg9owl" /></a> </p>
 
 -   🌱 Tui đang học tại **Cao đẳng BKACAD (Học liên thông HUST)**
--   📫 Liên lạc với tui tại **huyhoang9owl@gmail.com**
+-   📫 Liên lạc với tui tại **tranhuyhoang9owl@gmail.com**
 -   ⚡ Fun fact **Thiếu ngủ cực nặng, nghiện cafe và chip chip :>**
 
 <h3 align="left">Connect with me:</h3>
